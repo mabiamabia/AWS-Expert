@@ -11,5 +11,10 @@ Caracteristicas e Vantagens:
 -Escalabilidade
 -Custo e elasticidade
 
-Desvantagens:
+NIST (The National Institute of standards and Technology)
+Sob demanda
+rede redistribuida
+catalogo de coisas
+elasticidade
+possivel ser mensurado
 
