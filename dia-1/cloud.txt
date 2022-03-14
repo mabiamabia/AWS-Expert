@@ -1,0 +1,15 @@
+o que é cloud?
+
+por que surgiu?
+
+Caracteristicas e Vantagens:
+-Agilidade
+-Manutenção
+-Confiabilidade
+-Segurança
+-Performance
+-Escalabilidade
+-Custo e elasticidade
+
+Desvantagens:
+
