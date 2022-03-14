@@ -1,0 +1,20 @@
+------------DEPLOYMENT MODELS-------------
+
+PRIVATE CLOUD
+VM - Virtual machine?
+
+PUBLIC CLOUD
+ex: azure, aws, google CLOUD
+
+HYBRID CLOUD
+um pedaço na amazon e um pedaço na VM
+mistura publico e privado
+
+MULTICLOUD
+roda em varias clouds ao mesmo tempo, 
+pra se caso uma cloud falir, ja esta em outra
+
+COMMUNITY
+empresas se reunem e constroem 
+uma cloud comunitaria para varias empresas utilizarem
+

@@ -1,0 +1,19 @@
+------------MODELOS DE SERVIÇOS CLOUD-----------
+
+IaaS
+Infrascruture as a service
+Infrastrutura como serviço
+
+ex:
+
+PaaS
+Platform as a service
+Plataforma como serviço
+
+ex: heroku, tranformar codigo que ta no git em URL
+
+FaaS
+function as a service
+Função como serviço
+
+ex: 
