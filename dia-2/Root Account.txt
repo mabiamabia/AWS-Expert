@@ -1,0 +1,12 @@
+Root Account:
+conta principal de todos os recursos dentro da AWS
+
+não deployar na root Account
+utilizar subcontas para:
+gerenciar com organização
+segurança: dificultar o acesso a outras contas
+
+unidade organizacional:
+dev,qa,prod
+permissões de acesso: de região, de "setor"
+zonas de disponibilidade
