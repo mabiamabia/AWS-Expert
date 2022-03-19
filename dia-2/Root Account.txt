@@ -20,10 +20,9 @@ permissões de acesso: de região, de "setor"
 zonas de disponibilidade
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-
 Criar conta na aws amazon
-
-
+aws organizations
+aws suport center
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 

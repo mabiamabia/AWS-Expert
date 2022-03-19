@@ -1,0 +1,17 @@
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+AWS well-architected
+
+framework de boas práticas aws
+pilares importantes para cloud computing
+*olhar pra infraestrutura que vc tem e comparar com o framework
+da aws well-architected 
+-Ajuda a conhecer os riscos
+-Ajuda a gerenciar os riscos
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Parte 2
+
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
