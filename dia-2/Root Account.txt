@@ -1,7 +1,15 @@
 Root Account:
 conta principal de todos os recursos dentro da AWS
 
+**************************************
+
 não deployar na root Account
+não utilizar contar pessoais pra criar conta
+utilizar email do time para criar contas
+ler os emails, criar email válido
+
+***************************************
+
 utilizar subcontas para:
 gerenciar com organização
 segurança: dificultar o acesso a outras contas
@@ -10,3 +18,12 @@ unidade organizacional:
 dev,qa,prod
 permissões de acesso: de região, de "setor"
 zonas de disponibilidade
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Criar conta na aws amazon
+
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
