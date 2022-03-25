@@ -13,5 +13,20 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 Parte 2
 
+pilars 
+design principles
+questions
+
+Por que aplicar o well-architected no dia a dia?
+
+velocidade no uso do cloud (deployar e construir coisas dentro da aws)
+mitigar os riscos /diminuir os riscos
+tornar as decisões informadas/documentadas
+
+well-architected pricipios
+-aprende
+-mede
+-melhora
+-e retorna ao inicio
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
